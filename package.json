@@ -1,0 +1,19 @@
+{
+  "name": "js-wikipedia",
+  "version": "1.0.0",
+  "description": "Wikipedia Search App build with Javascript",
+  "main": "(server.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prJy/js-wikipedia.git"
+  },
+  "author": "Anderson Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prJy/js-wikipedia/issues"
+  },
+  "homepage": "https://github.com/prJy/js-wikipedia#readme"
+}
